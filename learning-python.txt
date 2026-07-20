@@ -1,0 +1,10 @@
+Chapters 1-12
+- Skip Chapter 8 
++ chapter 25-object-oriented-programming through Object Instance Inspector
+
+In terminal window
+cd /home/jeglenn/git/projects/learning-python/
+mkdocs serve
+
+in web browser:
+http://localhost:8000/learning-python/chapters
