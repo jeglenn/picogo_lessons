@@ -3,8 +3,13 @@ sudo apt install mkdocs
 python -m pip install -U pip setuptools wheel
 python -m pip install mkdocs-material
 
-cd ~/git/projects/
-git pull github.com/dmccreary/learning-python.git
-cd learning-python
+#cd ~/git/projects/
+#git pull github.com/dmccreary/learning-python.git
+
+cd ~/git/projects/learning-python
+git pull
 
 mkdocs serve
+
+http://localhost:8000/learning-python
+http://127.0.0.1:8000/learning-python
