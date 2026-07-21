@@ -1,0 +1,10 @@
+sudo apt install mkdocs
+
+python -m pip install mkdocs-material
+python -m pip install -U pip setuptools wheel
+
+cd ~/git/projects/
+git pull github.com/dmccreary/learning-python.git
+cd learning-python
+
+mkdocs serve

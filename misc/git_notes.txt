@@ -1,0 +1,4 @@
+git push -u origin main
+git add path/to/your-directory/
+git commit -m "Add new directory and files"
+git push
