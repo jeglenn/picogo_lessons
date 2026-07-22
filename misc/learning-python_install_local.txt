@@ -3,8 +3,8 @@ sudo apt install mkdocs
 python -m pip install -U pip setuptools wheel
 python -m pip install mkdocs-material
 
-#cd ~/git/projects/
-#git pull github.com/dmccreary/learning-python.git
+# cd ~/git/projects/
+# git clone http://github.com/dmccreary/learning-python.git
 
 cd ~/git/projects/learning-python
 git pull
